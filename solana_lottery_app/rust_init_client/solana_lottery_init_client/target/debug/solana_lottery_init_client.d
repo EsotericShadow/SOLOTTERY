@@ -1,0 +1,1 @@
+/home/ubuntu/solana_lottery_app/rust_init_client/solana_lottery_init_client/target/debug/solana_lottery_init_client: /home/ubuntu/solana_lottery_app/rust_init_client/solana_lottery_init_client/src/main.rs
